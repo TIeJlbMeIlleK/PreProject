@@ -2,7 +2,7 @@ import io.qameta.allure.Step;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class AccountTestInvalidspaceAtEnd {
+public class AccountTestInvalidspaceAtEndTest {
 
     @Test
     @Step("Пустота в конце")
